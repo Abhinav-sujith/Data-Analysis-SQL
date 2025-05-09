@@ -5,3 +5,9 @@
 # About This Repository
 Welcome to my SQL data analysis portfolio. This repository contains a collection of SQL projects where I analyze real-world business problems and datasets to extract actionable insights. Rather than theoretical exercises, these projects demonstrate practical applications of SQL in business contexts.
 
+# Technical Skills Demonstrated
+SQL Query Optimization: Writing efficient queries for large datasets
+Data Aggregation: Using GROUP BY and window functions to summarize data
+Complex Joins: Implementing various types of joins to connect related tables
+Data Analysis: Extracting meaningful business insights from raw data
+Result Interpretation: Providing business context for numerical findings
