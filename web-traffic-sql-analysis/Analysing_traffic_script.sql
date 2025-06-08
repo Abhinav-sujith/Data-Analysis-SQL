@@ -1,4 +1,3 @@
-USE mavenfuzzyfactory;
 -- =========================================================================================================================================
 -- Which UTM content performed best in terms of conversion rate, and 
 -- what insights can be drawn from the performance of g_ad, b_ad_2, and the null group?
