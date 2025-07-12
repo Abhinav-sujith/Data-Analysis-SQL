@@ -80,7 +80,7 @@ LEFT JOIN bounced_sessions AS b
 
 -- 		QUESTION 3 
 
-/* Using SQL, analyze and compare the user conversion funnels for /lander-1 and /lander-2. 
+/* Analyze and compare the user conversion funnels for /lander-1 and /lander-2. 
 Evaluate how users progress through each stage of the e-commerce journey—from landing to product view, product detail, cart, shipping, and billing. 
 What does the data suggest about user behavior across these landers? 
 In particular, identify reasons behind the sharp drop-off between the shipping and billing stages and recommend actions to optimize the funnel.
